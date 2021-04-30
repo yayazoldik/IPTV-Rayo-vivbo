@@ -1,0 +1,119 @@
+{
+  "config" : {
+    "adcolony" : {
+      "adcolony_app_id" : "",
+      "adcolony_interstitial_id" : "",
+      "adcolony_rewarded_id" : ""
+    },
+    "admob" : {
+      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+      "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917",
+      "admob_unit_id" : ""
+    },
+    "appodeal" : {
+      "appodeal_app_key" : ""
+    },
+    "facebook" : {
+      "facebook_banner_id" : "IMG_16_9_APP_INSTALL",
+      "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL",
+      "facebook_native_id" : "IMG_16_9_APP_INSTALL"
+    },
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
+    "mode_ads_native_enabled" : true,
+    "mode_ads_rewarded" : "admob",
+    "mode_button_ads_action" : "0",
+    "unity" : {
+      "unity_app_id" : "",
+      "unity_banner_id" : "",
+      "unity_interstitial_id" : "",
+      "unity_rewarded_id" : ""
+    },
+    "update" : {
+      "enable_update_closed" : true,
+      "update_action" : "",
+      "update_msg" : "update your app for grt all favorite now",
+      "update_state" : false,
+      "update_title" : "update your app"
+    },
+    "app" : {
+      "mode_off_version" : "0"
+    }
+  },
+  "posts" : [
+    {
+      "id" : 0,
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "state" : "free",
+      "title" : "dadamou",
+      "description" : "",
+      "written" : "Test written 0 <br>My written"
+    },
+    {
+      "id" : 1,
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "state" : "free",
+      "title" : "Test title 1",
+      "description" : "",
+      "written" : "Test written 1"
+    },
+    {
+      "id" : 2,
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "state" : "free",
+      "title" : "Test title 2",
+      "description" : "",
+      "written" : "Test written 2"
+    },
+    {
+      "id" : 3,
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "state" : "free",
+      "title" : "Test title 3",
+      "description" : "",
+      "written" : "Test written 3"
+    },
+    {
+      "id" : 4,
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "state" : "free",
+      "title" : "Test title 4",
+      "description" : "",
+      "written" : "Test written 4"
+    },
+    {
+      "id" : 5,
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "state" : "free",
+      "title" : "Test title 5",
+      "description" : "",
+      "written" : "Test written 5"
+    },
+    {
+      "id" : 6,
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "state" : "free",
+      "title" : "Test title 6",
+      "description" : "",
+      "written" : "Test written 6"
+    },
+    {
+      "id" : 7,
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "state" : "vip",
+      "title" : "Test title 7",
+      "description" : "",
+      "written" : "Test written 7"
+    },
+    {
+      "id" : 8,
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "state" : "vip",
+      "title" : "Test title 8",
+      "description" : "",
+      "written" : "Test written 8"
+    }
+  ]
+}
