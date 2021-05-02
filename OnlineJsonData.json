@@ -31,12 +31,12 @@
       "unity_interstitial_id" : "",
       "unity_rewarded_id" : ""
     },
-    "update" : {
+     "update" : {
       "enable_update_closed" : true,
-      "update_action" : "",
-      "update_msg" : "update your app for grt all favorite now",
+      "update_action" : "https://canadaa.hijera.com",
+      "update_msg" : "Hi , we are updating our app for a better experience , give us 2 or 3 days -You can take this chance by clicking update",
       "update_state" : false,
-      "update_title" : "update your app"
+      "update_title" : "Messge From Developer"
     },
     "app" : {
       "mode_off_version" : "0"
