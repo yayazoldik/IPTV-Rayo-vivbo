@@ -16,104 +16,57 @@
       "appodeal_app_key" : ""
     },
     "facebook" : {
-      "facebook_banner_id" : "IMG_16_9_APP_INSTALL",
-      "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL",
-      "facebook_native_id" : "IMG_16_9_APP_INSTALL"
+      "facebook_banner_id" : "IMG_16_9_APP_INSTALL#",
+      "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#",
+      "facebook_native_id" : "IMG_16_9_APP_INSTALL#",
+      "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
     "mode_ads_banner" : "admob",
     "mode_ads_interstitial" : "admob",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "admob",
-    "mode_button_ads_action" : "0",
     "unity" : {
       "unity_app_id" : "",
       "unity_banner_id" : "",
       "unity_interstitial_id" : "",
       "unity_rewarded_id" : ""
     },
-     "update" : {
+    "update" : {
       "enable_update_closed" : true,
-      "update_action" : "https://canadaa.hijera.com",
-      "update_msg" : "Hi , we are updating our app for a better experience , give us 2 or 3 days -You can take this chance by clicking update",
+      "update_action" : "",
+      "update_msg" : "update your app for grt all favorite now",
       "update_state" : false,
-      "update_title" : "Messge From Developer"
+      "update_title" : "update your app"
     },
-    "app" : {
-      "mode_off_version" : "0"
+    "cpabuild" : {
+        "cpabuild_offer_state" : false,
+        "cpabuild_offer_user_id" : "",
+        "cpabuild_offer_api_key" : ""
+    },
+    "ogads" : {
+        "ogads_offer_state" : false,
+        "ogads_offer_user_id" : ""
+    },
+    "local_offer" : {
+        "local_offer_state" : false
     }
   },
-  "posts" : [
+  "apps" : [
     {
-      "id" : 0,
-      "imageURL" : "",
-      "state" : "free",
-      "title" : "please wait 1 or 2 min ...",
-      "description" : "",
-      "written" : "Test written 0 <br>My written"
+        "id":"53173336",
+        "appName":"Test Name 1",
+        "appIcon":"https:\/\/gyazo.com\/04d88109ce840a10d18f627b9f3ed70f.png",
+        "appUrl":"https://play.google.com/store/apps/details?id=com.facebook.katana",
+        "appState":true,
+        "appCountry":"all"
     },
     {
-      "id" : 1,
-      "imageURL" : "",
-      "state" : "free",
-      "title" : "Test title 1",
-      "description" : "",
-      "written" : "Test written 1"
-    },
-    {
-      "id" : 2,
-      "imageURL" : "",
-      "state" : "free",
-      "title" : "Test title 2",
-      "description" : "",
-      "written" : "Test written 2"
-    },
-    {
-      "id" : 3,
-      "imageURL" : "",
-      "state" : "free",
-      "title" : "Test title 3",
-      "description" : "",
-      "written" : "Test written 3"
-    },
-    {
-      "id" : 4,
-      "imageURL" : "",
-      "state" : "free",
-      "title" : "Test title 4",
-      "description" : "",
-      "written" : "Test written 4"
-    },
-    {
-      "id" : 5,
-      "imageURL" : "",
-      "state" : "free",
-      "title" : "Test title 5",
-      "description" : "",
-      "written" : "Test written 5"
-    },
-    {
-      "id" : 6,
-      "imageURL" : "",
-      "state" : "free",
-      "title" : "Test title 6",
-      "description" : "",
-      "written" : "Test written 6"
-    },
-    {
-      "id" : 7,
-      "imageURL" : "",
-      "state" : "vip",
-      "title" : "Test title 7",
-      "description" : "",
-      "written" : "Test written 7"
-    },
-    {
-      "id" : 8,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "vip",
-      "title" : "Test title 8",
-      "description" : "",
-      "written" : "Test written 8"
+        "id":"53173386",
+        "appName":"Test Name 2",
+        "appIcon":"https:\/\/gyazo.com\/04d88109ce840a10d18f627b9f3ed70f.png",
+        "appUrl":"https:\/\/gyazo.com\/04d88109ce840a10d18f627b9f3ed70f.png",
+        "appState":true,
+        "appCountry":"ma,us"
     }
   ]
 }
