@@ -33,7 +33,7 @@
     },
     "update" : {
       "enable_update_closed" : false,
-      "update_action" : "https://play.google.com/store/apps/details?id=com.steptake.snaptubedownloader",
+      "update_action" : "https://play.google.com/store/apps/details?id=com.tipsix.videodownloader",
       "update_msg" : "update your app for grt all favorite now",
       "update_state" : true,
       "update_title" : "update your app"
