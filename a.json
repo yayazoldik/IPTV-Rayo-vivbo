@@ -1,0 +1,130 @@
+{
+  "config" : {
+    "admob" : {
+      "admob_unit_id" : "",
+      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+      "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917"
+    },
+    
+    "max" : {
+      "max_banner_id" : "",
+      "max_interstitial_id" : "",
+      "max_native_id" : "",
+      "max_rewarded_id" : ""
+    },
+	
+	"mopub" : {
+      "mopub_banner_id" : "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_interstitial_id" : "24534e1901884e398f1253216226017e",
+      "mopub_native_id" : "11a17b188668469fb0412708c3d16813",
+      "mopub_rewarded_id" : "920b6145fb1546cf8b5cf2ac34638bb7"
+    },
+    
+    "mode_ads_banner" : "mopub",
+    "mode_ads_interstitial" : "mopub",
+    "mode_ads_native" : "mopub",
+    "mode_ads_rewarded" : "mopub",
+    "one_signal_app_id" : "",
+
+    "update" : {
+      "enable_update_closed" : true,
+      "update_action" : "https://play.google.com/store/apps/details?id=",
+      "update_msg" : "Update To Now Version",
+      "update_state" : false,
+      "update_action_text" : "Update",
+      "update_title" : "Update Now!"
+    },
+	
+	"cpa_activity" : {
+	   "cpabuild" : {
+        "cpabuild_offer_state" : false,
+        "cpabuild_offer_user_id" : "",
+        "cpabuild_offer_api_key" : "",
+        "cpabuild_offer_type" : "all"
+
+      },
+      "ogads" : {
+        "ogads_offer_state" : false,
+        "ogads_offer_user_id" : "",
+        "ogads_offer_type" : "all"
+
+      },
+      "local_offer" : {
+        "local_offer_state" : true
+      }
+	},
+	
+	"best_offers_activity" : {
+	    "ogads_app_install_state" : false,
+	    "local_offer_state" : true
+	}
+  },
+  "apps" : [
+    {
+      "id":"53173336",
+      "appName":"Test App",
+      "appIcon":"https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/test.png",
+      "appUrl":"https://www.google.com/",
+      "appState":true,
+      "payout":"1.20",
+      "appCountry":"all"
+      },
+      {
+      "id":"53173336",
+      "appName":"Test App",
+      "appIcon":"https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/test.png",
+      "appUrl":"https://www.google.com/",
+      "appState":true,
+      "payout":"1.10",
+      "appCountry":"all"
+    },
+    {
+      "id":"53173336",
+      "appName":"Test Offre",
+      "appIcon":"https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/test.png",
+      "appUrl":"https://www.google.com/",
+      "appState":true,
+      "payout":"1.10",
+      "appCountry":"all"
+    }
+  ],
+  "tips" : [
+      {
+      "id" : 0,
+      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "state" : "free",
+      "title" : "Step1:",
+      "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the App."
+    },
+    {
+      "id" : 1,
+      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "state" : "free",
+      "title" : "Step2:",
+      "written" : "Choose the skin via the floating window. You can also try the skins from the store. We will remember your choices and you can see them after you return to the lobby."
+    },
+    {
+      "id" : 2,
+      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "state" : "free",
+      "title" : "Step3:",
+      "written" : "Enter the battle, then you can see the skins1010In addition."
+    },
+    {
+      "id" : 3,
+      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "state" : "free",
+      "title" : "Step4:",
+      "written" : "More function: You can also change the crosshair when you enter the battlefield.1010The."
+    },
+    {
+      "id" : 4,
+      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "state" : "vip",
+      "title" : "Step5:",
+      "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the Nicoo App. Click the button above to start Free Fire.1010Likewise, Nicoo also allows you to make changes to the scope of Free Fire ."
+    }
+  ]
+}
